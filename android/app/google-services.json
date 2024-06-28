@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "887207760977",
+    "project_id": "playwith-customer-app",
+    "storage_bucket": "playwith-customer-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887207760977:android:3b9f046c8535cc5f7e5470",
+        "android_client_info": {
+          "package_name": "br.com.playwith.playwith_customer_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887207760977-t96rq9ring5eie2lg5cik40itetf4hr8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.playwith.playwith_customer_app",
+            "certificate_hash": "6b769d643cb9096606e4763cf4e0fb96ef830c6e"
+          }
+        },
+        {
+          "client_id": "887207760977-v0dg4tmtcuk2uv3tjk7ed8bpi0cq6pda.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.playwith.playwith_customer_app",
+            "certificate_hash": "cbf1af09eba24d3cf79578ea0ae48187b7723c8a"
+          }
+        },
+        {
+          "client_id": "887207760977-9ahte6f1sbidq3o4tpuatu9ouirae6v7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvngZqJk9XAY-YgLlHJMoY3i_96pbcZBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887207760977-9ahte6f1sbidq3o4tpuatu9ouirae6v7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "887207760977-2aqimef7e1ds1s1rlpme4er32bddr5pb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.remottely.playwithCustomerApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
